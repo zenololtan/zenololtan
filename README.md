@@ -1,6 +1,6 @@
 ### Hello world!:earth_africa:
 
-I'm Zeno and currently studying software engineering at [Codam](https://www.codam.nl/en/), [(part of the 42 networ)](https://42.fr/en/network-42/).
+I'm Zeno and currently studying software engineering at [Codam](https://www.codam.nl/en/), [(part of the 42 network)](https://42.fr/en/network-42/).
 
 
 Software engineering has always been a big part of my life!
@@ -16,3 +16,7 @@ I post projects completed at codam and personal projects, which are written in:
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img alt="Shell" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><nobr>
+
+<!--badges are from: https://github.com/Ileriayo/markdown-badges
+maybe add workflow, like fav ide or text editor, fav debugging tool and language
+-->
