@@ -1,11 +1,12 @@
 ### Hello world!:earth_africa:
 
-I'm Zeno and currently studying software engineering at [Codam](https://www.codam.nl/en/), [(part of the 42 networ)k](https://42.fr/en/network-42/).
+I'm Zeno and currently studying software engineering at [Codam](https://www.codam.nl/en/), [(part of the 42 networ)](https://42.fr/en/network-42/).
 
 
-Software engineering has always been a big part of my life! As in, I have utilized software like youtube, streaming platforms and games my whole life:woozy_face:.
+Software engineering has always been a big part of my life!
+As in, I have utilized software like youtube, streaming platforms and games my whole life:woozy_face:.
 
-Now I have finaly started my journey behind the scenes of all this wonderfull tech and hopefully I can contribute some cool things to this community!:smiley::v::sparkles:
+Now I have finaly started my journey behind the scenes of all this wonderfull tech and hopefully I can contribute some cool things to this community!:v::smiley::sparkles:
 
 I post projects completed at codam and personal projects, which are written in:
 
